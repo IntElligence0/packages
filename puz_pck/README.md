@@ -1,6 +1,3 @@
-# Derivation Package
+# Puzzle package
 
-**This is a simple derivation package.**
-
-**Now you can derive any equation in one unknown.**
- 
+**for solving some problems and puzzles.**
