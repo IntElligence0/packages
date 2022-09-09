@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+Puzzles/__init__.py
+Puzzles/puzzles.py
+Puzzles.egg-info/PKG-INFO
+Puzzles.egg-info/SOURCES.txt
+Puzzles.egg-info/dependency_links.txt
+Puzzles.egg-info/top_level.txt
